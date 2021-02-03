@@ -1,3 +1,14 @@
+# This is an archival copy of AltspaceUnityUploader.
+### For the latest version, please visit the repo directly at [willneedit/AltspaceUnityUploader](https://github.com/willneedit/AltspaceUnityUploader).
+****
+
+&nbsp;
+
+This space left intentionally blank.
+
+&nbsp;
+
+****
 # AltspaceUnityUploader
 Fully rewritten Unity Uploader for AltspaceVR.
 
